@@ -1,0 +1,44 @@
+*a{
+    text-decoration: none;
+}
+.container-form{
+    display: flex;
+    justify-content: center;
+}
+.reg-form{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    margin-top: 8%;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+.auth-text{
+    display: flex;
+    justify-content: center;
+}
+.user-info{
+    margin:3% 0 0 5% ;
+    font-size: 25px;
+}
+.courses{
+    display: flex;
+    
+}
+.container-form-auth{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
